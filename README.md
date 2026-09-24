@@ -1,6 +1,8 @@
 # Bin11
 
 [![License: MIT](https://img.shields.io/github/license/3N071K/Bin11?color=blue)](LICENSE)
+![Platform](https://img.shields.io/badge/platform-Windows%2011-blue)
+![.NET](https://img.shields.io/badge/.NET-8.0-purple)
 
 Лёгкая трей-утилита для Windows 11: иконка возле часов показывает заполненность корзины кольцевым индикатором с автоматическим цветом (белый/чёрный круг под тему системы, зелёный → жёлтый → красный по проценту заполнения).
 
@@ -42,6 +44,8 @@
 # Bin11 (English)
 
 [![License: MIT](https://img.shields.io/github/license/3N071K/Bin11?color=blue)](LICENSE)
+![Platform](https://img.shields.io/badge/platform-Windows%2011-blue)
+![.NET](https://img.shields.io/badge/.NET-8.0-purple)
 
 A lightweight tray utility for Windows 11: the icon next to the clock shows how full the Recycle Bin is with a ring indicator and automatic coloring (white/black track matching the system theme, green → yellow → red based on fill percentage).
 
