@@ -1,5 +1,7 @@
 # Bin11
 
+[![License: MIT](https://img.shields.io/github/license/3N071K/Bin11?color=blue)](LICENSE)
+
 Лёгкая трей-утилита для Windows 11: иконка возле часов показывает заполненность корзины кольцевым индикатором с автоматическим цветом (белый/чёрный круг под тему системы, зелёный → жёлтый → красный по проценту заполнения).
 
 > **⚠️ Для запуска требуется [.NET 8 Desktop Runtime (x64)](https://dotnet.microsoft.com/download/dotnet/8.0).**
@@ -31,7 +33,15 @@
 
 ---
 
+## Лицензия
+
+Этот проект распространяется под лицензией MIT. Подробности — в файле [LICENSE](LICENSE).
+
+---
+
 # Bin11 (English)
+
+[![License: MIT](https://img.shields.io/github/license/3N071K/Bin11?color=blue)](LICENSE)
 
 A lightweight tray utility for Windows 11: the icon next to the clock shows how full the Recycle Bin is with a ring indicator and automatic coloring (white/black track matching the system theme, green → yellow → red based on fill percentage).
 
@@ -61,3 +71,9 @@ A lightweight tray utility for Windows 11: the icon next to the clock shows how 
 The ready-to-run `Bin11.exe` is available in the **[Releases](../../releases)** section — just download and run it. The icon will appear in the tray next to the clock; if you don't see it, it's hidden behind the "show hidden icons" arrow on the taskbar — just drag it onto the visible area.
 
 The only thing you may need is the **.NET 8 Desktop Runtime** (link at the top). On most Windows 11 machines it's already there, so in the typical case no extra steps are required.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
